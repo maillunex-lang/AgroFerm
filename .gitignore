@@ -1,0 +1,33 @@
+# secrets and release keys
+.env
+.env.*
+*.pem
+*.keystore
+*.jks
+*.mobileprovision
+release-keys/
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
+
+# Godot
+.godot/
+*.translation
+export_presets.cfg
+
+# Go
+/server/bin/
+/server/tmp/
+
+# Node admin
+admin/node_modules/
+admin/dist/
+
+# local data, maps, dumps
+*.osm
+*.osm.pbf
+*.dump
+*.backup
+/tmp/
