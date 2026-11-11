@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "Unbounded";
+  font-style: normal;
+  font-weight: 600;
+  src: url("./fonts/unbounded-cyrillic-600-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./fonts/manrope-cyrillic-400-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 600;
+  src: url("./fonts/manrope-cyrillic-600-normal.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 700;
+  src: url("./fonts/manrope-cyrillic-700-normal.woff2") format("woff2");
+}
